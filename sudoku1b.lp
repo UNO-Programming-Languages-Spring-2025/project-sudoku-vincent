@@ -1,5 +1,5 @@
 
-#const n = 2.  % Define subgrid size (2x2 for a 4x4 board)
+#const n = 2. % Define subgrid size (2x2 for a 4x4 board)
 
 % 4x4 grid
 row(1..4).
